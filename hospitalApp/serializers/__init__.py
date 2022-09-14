@@ -1,0 +1,7 @@
+from hospitalApp.serializers.usuarioserializer import UsuarioSerializer
+from hospitalApp.serializers.signosvitalesserializer import SignosVitalesSerializer
+from hospitalApp.serializers.pacienteserializer import PacienteSerializer
+from hospitalApp.serializers.medicoserializer import MedicoSerializer
+from hospitalApp.serializers.historiaclinicaserializer import HistoriaClinicaSerializer
+from hospitalApp.serializers.familiarserializer import FamiliarSerializer
+from hospitalApp.serializers.auxiliarserializer import AuxiliarSerializer
